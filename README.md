@@ -1,1 +1,1 @@
-# RT-face-mask-InceptionV3
+# Real-Time Face Mask Detection using InceptionV3
