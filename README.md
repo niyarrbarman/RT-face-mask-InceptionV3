@@ -11,12 +11,13 @@ The model is able to detect whether a person is wearing a face mask or not in re
 
 ## Usage
 
-1. Clone the repository<br>
-<code>git clone https://github.com/niyarrbarman/RT-face-mask-InceptionV3.git</code>
-2. Install the required packages<br>
-<code>pip3 install -r requirements.txt</code>
-3. Run the script<br>
-<code>python3 main.py</code>
+1. Clone the repository
+2. Install the required packages
+3. Run the script
+<pre>
+<code>git clone https://github.com/niyarrbarman/RT-face-mask-InceptionV3.git
+pip3 install -r requirements.txt
+python3 main.py</code></pre>
 
 The script will open up your webcam and display the live video feed with mask detection.
 
